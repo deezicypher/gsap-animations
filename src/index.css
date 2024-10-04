@@ -53,18 +53,7 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
-.pg{
-min-height: 100vh;
-padding: 20px;
-max-width: 780px;
-}
-.card{
-  background-color: #213547;
-  border-radius: 30px;
-  height: 100px;
-  width: 50%;
-  margin-top: 50px;
-}
+
 
 @media (prefers-color-scheme: light) {
   :root {
