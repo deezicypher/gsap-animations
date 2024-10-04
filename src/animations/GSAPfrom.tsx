@@ -15,14 +15,12 @@ const GSAPfrom : React.FC = () => {
     }
     ,[]) 
   return (
-    <div><div className='pg'>
+    <div>
 
     <h3>GSAP.from animation</h3>
     <p> Elements animate from new state to current state</p>
     <p>Meanwhile fromTo does it from a new state to a new state</p>
-  <div className="card card-from">
-          
-          </div>
+  <div className="card-from bg-[#213547] rounded-lg h-20 w-20 mt-10">
   </div></div>
   )
 }

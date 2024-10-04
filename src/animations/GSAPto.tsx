@@ -8,14 +8,14 @@ const GSAPto : React.FC = () => {
   }
   ,[]) 
   return (
-    <div><div className='pg'>
+<div >
 
     <h3>GSAP.to animation</h3>
     <p> Elements animate from current state to new state</p>
-  <div className="card card-to">
-          
-          </div>
-  </div></div>
+    
+  <div className="card-to bg-[#213547] rounded-full h-20 w-20 mt-10" >
+  </div>
+</div>
   )
 }
 
