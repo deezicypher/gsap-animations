@@ -56,7 +56,7 @@ const GSAPtimeline:React.FC = () => {
                 }}}>
         Play/Pause
        </div>
-       <div id='card-timeline' className="bg-[#213547] rounded-md h-20 w-20 mt-10 ">
+       <div id='card-timeline' className="bg-[#213547] rounded-md h-20 w-20 mt-10  ">
           
           </div>
     </div>

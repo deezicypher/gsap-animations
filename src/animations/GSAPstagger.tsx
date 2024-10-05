@@ -25,10 +25,10 @@ const GSAPstagger:React.FC = () => {
   },[])
 
   return (
-    <div className='flex flex-col justify-around gap-2'>
+    <div className='flex flex-col justify-around gap-2 mt-20'>
        <h3>GSAP stagger</h3> 
        <p>this feature allows you to apply animations with a staggered delay to group of elements</p>
-       <div className="mt-20">
+       <div className=" mb-40">
         <div className="flex gap-5">
           <div className="w-20 h-20 bg-indigo-200 rounded-lg stagger-box" />
           <div className="w-20 h-20 bg-indigo-300 rounded-lg stagger-box" />
