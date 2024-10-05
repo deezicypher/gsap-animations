@@ -1,6 +1,7 @@
 import GSAPfrom from './animations/GSAPfrom'
 import GSAPscrolltrigger from './animations/GSAPscrolltrigger'
 import GSAPstagger from './animations/GSAPstagger'
+import GSAPtext from './animations/GSAPtext'
 import GSAPtimeline from './animations/GSAPtimeline'
 import GSAPto from './animations/GSAPto'
 
@@ -15,6 +16,7 @@ function App() {
       <GSAPtimeline/>
       <GSAPstagger/>
      <GSAPscrolltrigger/>
+     <GSAPtext/>
     </div>
   )
 }
